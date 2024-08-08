@@ -1,5 +1,5 @@
 ## Supply Chain Optimization with Python 
-*Find the optimal locations of your manufacturing facilities to meet your customers’ demand and reduce production costs*
+*Finding the optimal locations for manufacturing facilities to meet customers’ demand and reduce production costs*
 
 ### Article
 In this, I present a simple methodology using Linear Programming for Supply Chain Optimization considering
